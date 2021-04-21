@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_the_num">Enter the num</string>
+    <string name="what_is_the_unit">what is the unit?</string>
+    <string name="fluid_ounces_to_milliliters">fluid ounces to milliliters</string>
+    <string name="milliliters_to_fluid_ounces">milliliters to fluid ounces</string>
+    <string name="grams_to_cups">grams to cups (all purpose flour)</string>
+    <string name="cups_to_grams">cups to grams (all purpose flour)</string>
+    <string name="round_up_the_number">Round up the number?</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result: %s</string>
+</resources>
