@@ -4,6 +4,7 @@ unit converter for cooking
 <img src = "Screenshot_1624364001.png" width="200">
 <img src = "Screenshot_1624364032.png" width="200">
 <img src = "Screenshot_1624364105.png" width="200">
+<img src="unitConverter.gif">
 
 <video autoplay loop muted playsinline>
     <source src="unitConverter.webm" type="video/webm">
