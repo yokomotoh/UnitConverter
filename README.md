@@ -1,7 +1,7 @@
 # UnitConverter
 unit converter for cooking
 
-<img src = "screenshot.png" width="200">
+<img src = "Screenshot_1624364001.png" width="200">
 
 <video autoplay loop muted playsinline>
     <source src="unitConverter.webm" type="video/webm">
